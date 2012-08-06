@@ -7,7 +7,7 @@
   </parent>
 
   <groupId>org.jenkinsci.plugins</groupId>
-  <artifactId>git</artifactId>
+  <artifactId>custom_git</artifactId>
   <version>1.1.22-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <name>Jenkins GIT plugin (custom)</name>
